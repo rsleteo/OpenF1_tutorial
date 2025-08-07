@@ -22,7 +22,7 @@ from app.visualizer import (
 st.set_page_config(page_title="F1 Strategy Dashboard", layout="wide")
 
 st.title("🏎️ Formula 1 Strategy Dashboard")
-st.markdown("_Powered by OpenF1.org • Built by Attila Bordan_")
+st.markdown("_Powered by OpenF1.org")
 
 col1, col2 = st.columns(2)
 
